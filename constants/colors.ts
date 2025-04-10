@@ -1,0 +1,16 @@
+export default {
+  primary: '#3366FF',
+  primaryLight: '#6F8EF5',
+  primaryDark: '#2A4BC9',
+  background: '#FFFFFF',
+  backgroundSecondary: '#F5F8FF',
+  text: '#1A1A3A',
+  textSecondary: '#6B7280',
+  border: '#E5E7EB',
+  success: '#10B981',
+  error: '#EF4444',
+  warning: '#F59E0B',
+  white: '#FFFFFF',
+  black: '#000000',
+  gray: '#9CA3AF',
+};
